@@ -1,0 +1,27 @@
+#a1,#a2,#a3,#a4,#a5{
+     width: 200px;
+     height: 200px;
+     background-color: aqua;
+     border:8px dashed #000;
+     display:inline-block
+
+}
+
+#a1{
+    background-color: chocolate;
+}
+#a2{
+    background-color:darkblue;
+}
+#a3{
+    background-color:green;
+}
+#a4{
+        background-color:blueviolet;
+}
+    
+#a5{
+            background-color:red;
+    
+}
+                
